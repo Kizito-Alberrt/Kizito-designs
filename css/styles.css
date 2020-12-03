@@ -1,0 +1,31 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+ul{
+    list-style: none;
+}
+li a {
+    text-emphasis: bold;
+    text-decoration: none;
+    padding: 7px;
+    font-size: 30px;
+    font-family: Lucida Console Courier, monospace;
+    display: block;
+    margin: 2%;
+    
+}
+.header{
+    width: 100%;
+    height: 100vh;
+    background-image: url(/home/moringa/Desktop/kizito-designs/images/kizito.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+padding: 10%;
+font-size: 50px;
+font-family: Lucida Console Courier, monospace;
+}
