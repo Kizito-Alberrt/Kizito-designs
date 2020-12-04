@@ -10,7 +10,7 @@ ul{
 li a {
     text-emphasis: bold;
     text-decoration: none;
-    padding: 7px;
+    padding: 2px;
     font-size: 30px;
     font-family: Lucida Console Courier, monospace;
     display: block;
