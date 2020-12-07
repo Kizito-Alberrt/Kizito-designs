@@ -43,3 +43,4 @@ a:hover{
 body{
     background-image: url("../images/sky.jpg"); 
 }
+@media screen and (min-width: 500px)
