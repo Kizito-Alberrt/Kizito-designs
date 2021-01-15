@@ -18,12 +18,8 @@
 * kizito albert
 
 
-## Setup
-* To run this project
-* click on the link below 
-* Go to the search Page
-* Fill the form provided according to your property choice
-*
+
+
 
  
 
